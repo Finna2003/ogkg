@@ -1,0 +1,21 @@
+﻿  ogkg.cpp
+C:\Users\Инна\program\ogkg\ogkg.cpp(13,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(14,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(20,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(34,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(36,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(38,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(144,55): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Инна\program\ogkg\ogkg.cpp(144,39): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Инна\program\ogkg\ogkg.cpp(145,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(160,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Инна\program\ogkg\ogkg.cpp(160,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  ogkg.vcxproj -> C:\Users\Инна\program\ogkg\x64\Debug\ogkg.exe
